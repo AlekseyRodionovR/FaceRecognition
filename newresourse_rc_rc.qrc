@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="prefix">
+    <file>icons/icon (5).png</file>
+    <file>icons/delete.png</file>
+    <file>icons/search.png</file>
+    <file>icons/down-arrow-on-horizontal-line.png</file>
+    <file>icons/icon (6).png</file>
+    <file>icons/Artboard_73-512.png</file>
+    <file>icons/delete.png</file>
+    <file>icons/dslr-camera.png</file>
+    <file>icons/icon (7).png</file>
+    <file>icons/icon (12).png</file>
+    <file>icons/icon.png</file>
+    <file>icons/user.png</file>
+    <file>icons/play.jpg</file>
+  </qresource>
+</RCC>
